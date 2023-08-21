@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhavagarwal404
 - 👀 I’m interested in blockchain, politics and gaming
-- 🌱 I’m currently learning to fit in
-- 💞️ I’m looking to collaborate on creating the GPT technology to query blockchain data
+- 🌱 I’m currently learning to fit into Gemini Data Engineering workflow
+- 💞️ I’m looking to collaborate on creating the GPT technology to query blockchain data called Libra
 - 📫 How to reach me ... email: vaibhav.agarwal@gemini.com, slack: vaibhav.agarwal 
 
 <!---
